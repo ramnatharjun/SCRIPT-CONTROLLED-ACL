@@ -8,3 +8,5 @@ ServiceNow-ACL-Project/
 │   ├── 04-acl-create done
 │   ├── 05-acl-write done
 │   └── 06-acl-delete done
+
+https://dev406757.service-now.com/now/nav/ui/classic/params/target/ui_page.do%3Fsys_id%3Df3fee93047eb0310bc8def6c716d4327
